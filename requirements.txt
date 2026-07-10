@@ -1,14 +1,10 @@
 streamlit
-# dlib-19.24.1-cp311-cp311-win_amd64.whl
- # dlib==19.24.1 — on Windows, install from local wheel first, see README
-# Utilities
 
 numpy
 pandas
 
-# Face Recognition
 scikit-learn
-dlib==19.24.1 --no-binary dlib
+dlib==19.24.1
 git+https://github.com/ageitgey/face_recognition_models
 setuptools
 
@@ -17,8 +13,6 @@ bcrypt
 
 segno
 pillow
-
-
 
 librosa
 resemblyzer
