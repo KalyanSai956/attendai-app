@@ -6,13 +6,14 @@ pandas
 scikit-learn
 dlib==19.24.1
 git+https://github.com/ageitgey/face_recognition_models
-setuptools
 
 supabase
 bcrypt
-
 segno
 pillow
 
 librosa
+
+torch==2.2.2
+torchaudio==2.2.2
 resemblyzer
